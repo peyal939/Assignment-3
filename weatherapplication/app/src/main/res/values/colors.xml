@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F0F4FF</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="inputTextColor">#333333</color>
+    <color name="forecastTextColor">#000000</color>
+    <color name="errorTextColor">#FF0000</color>
+    <color name="buttonColor">#007BFF</color>
+
+</resources>
